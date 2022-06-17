@@ -13,3 +13,8 @@ Theres no limit to the amount of games you can play, like there is on many wordl
 I got inspiration for this project from the well known New York Times version, which you can access here:
 https://www.nytimes.com/games/wordle/index.html
 
+![Starting_Screen](https://user-images.githubusercontent.com/107115261/174289875-21d9c1b7-bd86-43ee-8fd3-6541fbd6cd84.png)
+
+![Lose_Screen](https://user-images.githubusercontent.com/107115261/174289862-da03318a-51d4-4b26-8c41-6ce2e25e7957.png)
+
+![Win_Screen](https://user-images.githubusercontent.com/107115261/174289871-6c915edd-340b-4533-8386-2268c102959d.png)
